@@ -1,7 +1,7 @@
 # coding-solutions
-hackerearth coding solutions
+#hackerearth coding solutions
 
-Unlock the Door- Maths - Medium
+#Unlock the Door- Maths - Medium
 
 #include<stdio.h>
 int main()
